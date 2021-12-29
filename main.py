@@ -32,7 +32,7 @@ def displayInformation():
             * Difficult breating or shortness of breath
             * Loss of speech or mobility, or confusion
             * chest pain
-        * Most common symptons :
+        * Most common symptoms :
             * fever 
             * Cough
             * Tiredness
