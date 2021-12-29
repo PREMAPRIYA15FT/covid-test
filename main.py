@@ -1,4 +1,4 @@
-# prempriys FT
+# premapriya FT
 
 def convertYNtoBoolean(li):
     for i in range(len(li)):
